@@ -23,7 +23,7 @@
 
 ---
 
-## Use Case Description: UC-03 (use case 이름)
+## Use Case Description: UC-03 (로그인)
 
 | Actor Action                         | System Response                            |
 |--------------------------------------|--------------------------------------------|
@@ -86,7 +86,7 @@
 
 ---
 
-## Use Case Description: UC-07 (설문 응답 통계 정보 조회)
+## Use Case Description: UC-09 (설문 응답 통계 정보 조회)
 
 | Actor Action                         | System Response                            |
 |--------------------------------------|--------------------------------------------|
