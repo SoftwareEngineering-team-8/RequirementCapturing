@@ -23,9 +23,9 @@
 
 ---
 
-## UC-07, 08, 09 ( , , )
+## UC-07, 08, 09 (설문 상세정보 조회, 설문 응답, 설문 응답 통계 정보 조회)
 
 ### Diagram
-![UC-07, 08, 09](../diagrams/Use.png)
+![UC-07, 08, 09](../diagrams/UseCaseDiagram789.png)
 
 ---
