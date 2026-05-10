@@ -16,9 +16,16 @@
 
 ---
 
-## UC-02 (use case 이름)
+## UC-04, 05, 06 (설문 등록, 설문 조회, 설문 검색)
 
 ### Diagram
-![UC-02](../diagrams/uc02.png)
+![UC-04, 05, 06](../diagrams/UseCaseDiagram456.png)
+
+---
+
+## UC-07, 08, 09 ( , , )
+
+### Diagram
+![UC-07, 08, 09](../diagrams/Use.png)
 
 ---
