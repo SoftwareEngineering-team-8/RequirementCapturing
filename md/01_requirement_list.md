@@ -1,12 +1,12 @@
 # Requirement List (functional requirement만 작성함)
-# 팀코드 86110
-# 팀 내 역할 분담
-## 배준성
+## 팀코드 86110
+## 팀 내 역할 분담
+### 배준성
 - use case 1, 2, 3에 대한 requirement list, ui화면, diagrams, descriptions 작성
-## 이현택
+### 이현택
 -
-## 이현주
--
+### 이현주
+- use case 7, 8, 9에 대한 requirement list, ui화면, diagrams, descriptions 작성
 
 
 | No. |                     Requirement                                | Use Case(s) |
