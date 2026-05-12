@@ -15,6 +15,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## UC-02 (회원탈퇴)
 
 ### UI 화면
@@ -27,6 +29,8 @@
 -회원 탈퇴에 관한 안내사항과, 회원 탈퇴 버튼이 있다.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## UC-03 (로그인)
 
@@ -41,6 +45,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## UC-04 (설문 등록)
 
 ### UI 화면
@@ -53,6 +59,8 @@
 -새로운 설문을 등록한다.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## UC-05 (모든 설문 리스트 조회)
 
@@ -67,6 +75,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## UC-06 (설문 검색)
 
 ### UI 화면
@@ -80,6 +90,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## UC-07 (설문 상세정보 조회)
 
 ### UI 화면
@@ -92,6 +104,8 @@
 -선택한 특정 설문의 제목, 설명, 문항 및 응답 항목, 시작 및 마감 시각을 확인할 수 있으며, 진행 중인 설문에 한해 응답하기 버튼이 활성화된다.
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## UC-08 (설문 응답)
 

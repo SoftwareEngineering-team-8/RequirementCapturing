@@ -32,6 +32,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Use Case Description: UC-04 (설문 등록)
 
 | Actor Action                         | System Response                            |
@@ -69,6 +71,8 @@
 |                                      | 3. 조건에 맞는 설문 리스트를 출력한다.          |   
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## Use Case Description: UC-07 (설문 상세정보 조회)
 

@@ -9,6 +9,8 @@
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## UC-01, 02, 03 (회원가입, 회원탈퇴, 로그인)
 
 ### Diagram
@@ -22,6 +24,8 @@
 ![UC-04, 05, 06](../diagrams/UseCaseDiagram456.png)
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## UC-07, 08, 09 (설문 상세정보 조회, 설문 응답, 설문 응답 통계 정보 조회)
 
